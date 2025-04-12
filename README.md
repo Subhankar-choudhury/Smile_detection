@@ -33,6 +33,8 @@ Run the script and smile! The window will highlight your face and detect your sm
 
 🤝 Contributing 🤝<br>
 Feel free to fork the repo, suggest improvements, or open pull requests. Contributions are welcome! <br>
+## License <br>
+This project is licensed under the [MIT License](./LICENSE). <br>
 
 
 🙏 Acknowledgements 🙏 <br>
