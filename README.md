@@ -19,6 +19,7 @@ git clone https://github.com/yourusername/smile-detection.git <br>
 cd smile-detection<br>
 
 # Install dependencies <br>
+make sure you have opencv/opencv2 downloaded, if not type in the terminal: <br>
 pip install opencv-python <br>
 ▶️ Usage ▶️ <br>
 # Run the detection script using: <br>
