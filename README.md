@@ -22,6 +22,7 @@ cd smile-detection<br>
 make sure you have opencv/opencv2 downloaded, if not type in the terminal: <br>
 pip install opencv-python <br>
 ▶️ Usage ▶️ <br>
+python smile_detection.py <br>
 # Run the detection script using: <br>
 
 python smile_detection.py <br>
