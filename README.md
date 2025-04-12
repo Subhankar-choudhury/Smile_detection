@@ -1,41 +1,38 @@
 # Smile_detection
 ## 😄 Smile Detection with OpenCV 😄
-🌟 Overview 🌟
+🌟 Overview 🌟<br>
 This Smile Detection project uses Python and OpenCV's powerful pre-trained classifiers to detect faces and smiles in real-time using a webcam feed. It serves as a fun and practical introduction to computer vision and Haar cascade classifiers.
 
-🧰 Features 🧰
-Real-time face and smile detection via webcam.
+🧰 Features 🧰<br>
+Real-time face and smile detection via webcam.<br>
 
-Uses Haar cascade classifiers for accurate detection.
+Uses Haar cascade classifiers for accurate detection.<br>
 
-Easy-to-run script with minimal dependencies.
+Easy-to-run script with minimal dependencies.<br>
 
-Lightweight and beginner-friendly.
+Lightweight and beginner-friendly.<br>
 
-🚀 Installation 🚀
-To get started, follow these steps:
-# Clone the repo
-git clone https://github.com/yourusername/smile-detection.git
-cd smile-detection
+🚀 Installation 🚀<br>
+To get started, follow these steps:<br>
+# Clone the repo <br>
+git clone https://github.com/yourusername/smile-detection.git <br>
+cd smile-detection<br>
 
-# Install dependencies
-pip install opencv-python
-▶️ Usage ▶️
-# Run the detection script using:
+# Install dependencies <br>
+pip install opencv-python <br>
+▶️ Usage ▶️ <br>
+# Run the detection script using: <br>
 
-python smile_detection.py
-Make sure your webcam is enabled and ready!
+python smile_detection.py <br>
+Make sure your webcam is enabled and ready!<br>
 
 🧪 Testing 🧪<br>
-Run the script and smile! The window will highlight your face and detect your smile in real-time. Try different lighting conditions to test accuracy.
+Run the script and smile! The window will highlight your face and detect your smile in real-time. Try different lighting conditions to test accuracy. <br>
 
 🤝 Contributing 🤝<br>
-Feel free to fork the repo, suggest improvements, or open pull requests. Contributions are welcome!
+Feel free to fork the repo, suggest improvements, or open pull requests. Contributions are welcome! <br>
 
-📄 License 📄
-This project is licensed under the MIT License.
-Free to use, share, and modify!
 
-🙏 Acknowledgements 🙏
+🙏 Acknowledgements 🙏 <br>
 Thanks to the OpenCV community for providing Haar cascade models for face and smile detection.
 
