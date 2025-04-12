@@ -26,10 +26,10 @@ pip install opencv-python
 python smile_detection.py
 Make sure your webcam is enabled and ready!
 
-🧪 Testing 🧪
+🧪 Testing 🧪<br>
 Run the script and smile! The window will highlight your face and detect your smile in real-time. Try different lighting conditions to test accuracy.
 
-🤝 Contributing 🤝
+🤝 Contributing 🤝<br>
 Feel free to fork the repo, suggest improvements, or open pull requests. Contributions are welcome!
 
 📄 License 📄
