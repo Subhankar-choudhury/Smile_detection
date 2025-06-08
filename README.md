@@ -1,4 +1,4 @@
-# Smile_detection
+# Smile_detectio
 ## 😄 Smile Detection with OpenCV 😄
 🌟 Overview 🌟<br>
 This Smile Detection project uses Python and OpenCV's powerful pre-trained classifiers to detect faces and smiles in real-time using a webcam feed. It serves as a fun and practical introduction to computer vision and Haar cascade classifiers.
